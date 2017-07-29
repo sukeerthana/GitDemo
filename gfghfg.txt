@@ -16,11 +16,9 @@ And to push changes to remote repo
 
 git push origin branch_name  
 
-
-1578
-down vote
-accepted
-Use git rm:
+bhghjjjjjjjjjjjjjjjjjjjjj
+jggggggggggggggggj
+ghjghjghjghjgghjghj
 
 git rm file1.txt
 git commit -m "remove file1.txt"
