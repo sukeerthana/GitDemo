@@ -1,0 +1,30 @@
+What is the difference between git commit -m & git commit -a ?
+
+I was aware of git commit -m,,, but in Git Real-> Video 4, there is a git commit -a and it seems to be related to merging.
+
+And on video 5 there is: git commit -a -m "Add basic cart ability"
+When do we need commit -a -m ?
+What is the difference between git commit -m & git commit -a ?
+
+I was aware of git commit -m,,, but in Git Real-> Video 4, there is a git commit -a and it seems to be related to merging.
+
+And on video 5 there is: git commit -a -m "Add basic cart ability"
+When do we need commit -a -m ?
+What is the difference between git commit -m & git commit -a ?
+
+I was aware of git commit -m,,, but in Git Real-> Video 4, there is a git commit -a and it seems to be related to merging.
+
+And on video 5 there is: git commit -a -m "Add basic cart ability"
+When do we need commit -a -m ?
+What is the difference between git commit -m & git commit -a ?
+
+I was aware of git commit -m,,, but in Git Real-> Video 4, there is a git commit -a and it seems to be related to merging.
+
+And on video 5 there is: git commit -a -m "Add basic cart ability"
+When do we need commit -a -m ?
+What is the difference between git commit -m & git commit -a ?
+
+I was aware of git commit -m,,, but in Git Real-> Video 4, there is a git commit -a and it seems to be related to merging.
+
+And on video 5 there is: git commit -a -m "Add basic cart ability"
+When do we need commit -a -m ?

@@ -1,0 +1,46 @@
+ I'm not sure. This is the kind of question that's usually better for StackOverflow though, because there are lots of existing solutions. Just by using Google for the error message this came up on StackOverflow1.
+
+Q2: Yes it's possible, but I'd actually recommend working with GitHub on the website because the UI makes things so much easier. You can check out the hub project, which allows you to work with GitHub from the 
+
+1578
+down vote
+accepted
+Use git rm:
+
+git rm file1.txt
+git commit -m "remove file1.txt"
+But if you want to remove the file only from the Git repository and not remove it from the filesystem, use:
+
+git rm --cached file1.txt
+And to push changes to remote repo
+
+git push origin branch_name  
+
+
+1578
+down vote
+accepted
+Use git rm:
+
+git rm file1.txt
+git commit -m "remove file1.txt"
+But if you want to remove the file only from the Git repository and not remove it from the filesystem, use:
+
+git rm --cached file1.txt
+And to push changes to remote repo
+
+git push origin branch_name  
+
+1578
+down vote
+accepted
+Use git rm:
+
+git rm file1.txt
+git commit -m "remove file1.txt"
+But if you want to remove the file only from the Git repository and not remove it from the filesystem, use:
+
+git rm --cached file1.txt
+And to push changes to remote repo
+
+git push origin branch_name  
