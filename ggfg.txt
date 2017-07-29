@@ -17,3 +17,7 @@ I was aware of git commit -m,,, but in Git Real-> Video 4, there is a git commit
 
 And on video 5 there is: git commit -a -m "Add basic cart ability"
 When do we need commit -a -m ?
+
+jhjgy7y7uy7uy7y7y7uyuhjiujiuiuiuiouioouioouoouu8978978970890870786976
+ggygyhgyhgbjjhjjhjhuyiy78678677878
+hghjghghgytr564564434334
